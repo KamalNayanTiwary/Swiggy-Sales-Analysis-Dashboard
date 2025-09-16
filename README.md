@@ -164,6 +164,31 @@ This dashboard consolidates Swiggy’s sales and orders data over multiple years
 
 ---
 
+## 📄 Swiggy Sales Performance Report in PDF
+
+Swiggy is one of India’s fastest-growing food delivery platforms, connecting millions of customers with restaurants across the country. With rapid expansion, massive customer adoption, and increasing competition, it becomes essential to **track, analyze, and visualize sales performance** for better decision-making.  
+
+This **Swiggy Business Intelligence Dashboard** was built to:  
+- Monitor overall **Orders, Revenue, Users, and Ratings**  
+- Track **City-wise sales performance and top contributing regions**  
+- Analyze **Customer demographics (Age, Gender, Occupation, Marital Status)**  
+- Compare **Food Preferences – Veg vs Non-Veg vs Others**  
+- Measure **Year-on-Year growth trends** in sales and customer base  
+- Identify **Top 10% loyal customers** driving a large share of revenue  
+
+### 🔑 Why Analyze Swiggy Sales Data?  
+- **Revenue Insights** → Identify top-performing cities and low-growth regions  
+- **Customer Understanding** → Discover who the core customers are and how they behave  
+- **Food Category Analysis** → Optimize menus, pricing, and restaurant partnerships  
+- **Trend Detection** → Track seasonal patterns, yearly growth, and market shifts  
+- **Strategic Planning** → Support leadership in expansion and marketing investments  
+- **Customer Engagement** → Improve retention by analyzing loyalty and satisfaction metrics  
+
+📊 By consolidating these insights into **interactive Power BI dashboards**, Swiggy’s stakeholders can make **data-driven decisions** to optimize operations, enhance customer experiences, and drive sustainable business growth.  
+
+➡️ *(You can also include a link to a PDF version of the report or live dashboard here, similar to your Olympic project.)*  
+---
+
 ## ⚙️ Technical Workflow  
 
 ### 🔹 Step 1 – Data Import  
