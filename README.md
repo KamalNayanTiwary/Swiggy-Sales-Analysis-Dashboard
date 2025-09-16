@@ -269,17 +269,6 @@ Created calculated columns and measures for business KPIs, such as:
 ```
 ---
 
-## 📌 Notes  
-
-⚠️ **Dataset not included in this repo.**  
-Due to licensing and privacy concerns, the raw Excel/CSV dataset used in this project is not shared here.  
-However, you can replicate the project by:  
-- Downloading any Swiggy/Zomato dataset from **Kaggle**  
-- Cleaning & transforming data using **Power Query**  
-- Rebuilding visuals in **Power BI** with your own dataset  
-
----
-
 ## 🏁 Conclusion  
 
 The Swiggy Business Intelligence Dashboard acts as a **single source of truth** for decision-making by combining city-level, customer-level, and sales-level insights in one place.  
