@@ -98,6 +98,28 @@ It is designed to give a **holistic view of business performance** from both pro
 
 ---
 
+## 🚀 Business Problems Solved by the Dashboard  
+
+This dashboard is not just a visualization project, it is a **business solution framework** that directly addresses multiple challenges Swiggy faces in operations, customer engagement, and growth. By analyzing sales, orders, customers, and food categories, this project provides insights that help in solving the following problems:
+
+- Identifies **which cities generate the highest sales and orders**, enabling Swiggy to focus resources on profitable regions while improving operations in underperforming cities.  
+- Highlights the **most loyal and high-value customers (Top 10%)**, helping Swiggy design targeted loyalty programs and personalized offers.  
+- Provides visibility into **customer demographics (age, gender, marital status, occupation)** so Swiggy can run **data-driven marketing campaigns** tailored to each segment.  
+- Shows clear insights into **food preferences (Veg vs Non-Veg vs Others)**, allowing Swiggy and partner restaurants to optimize menus and pricing strategies.  
+- Tracks **year-on-year growth in orders and revenue**, giving leadership a transparent view of business performance and long-term trends.  
+- Detects **seasonal demand patterns** (festivals, weekends, events), helping Swiggy prepare inventory, delivery partners, and marketing campaigns more effectively.  
+- Compares **top-performing vs low-performing cities**, guiding decisions on **regional expansion, cloud kitchen placement, and marketing ROI optimization**.  
+- Measures **user engagement through ratings and repeat orders**, which supports improvements in service quality and customer satisfaction.  
+
+**By solving these problems, the dashboard helps Swiggy in:** 
+✔ Improving **customer retention**  
+✔ Optimizing **regional operations**  
+✔ Boosting **restaurant partnerships**  
+✔ Enhancing **marketing ROI**  
+✔ Supporting **data-driven growth strategies**  
+
+---
+
 ## 📊 Why This Project Matters  
 
 This Swiggy Analytics project is not just about visualizations – it is about **converting raw data into actionable insights**.  
