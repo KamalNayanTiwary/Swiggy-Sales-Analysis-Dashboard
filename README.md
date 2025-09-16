@@ -20,70 +20,94 @@ The solution consists of **3 interactive dashboards**, each focusing on a differ
 
 ---
 
-### 1️⃣ City Overview Dashboard  
+# 🍔 Swiggy Analytics Dashboards (Power BI Project)
+
+This project contains **interactive Power BI dashboards** designed to analyze Swiggy’s business performance across **cities, customers, orders, and food categories**.  
+The dashboards uncover hidden patterns in **sales trends, customer demographics, and regional demand**, which can help Swiggy (or any food delivery business) make **data-driven decisions**.
+
+---
+
+## 1️⃣ City Overview Dashboard  
 ![City Overview](City%20Overview.png)  
 
-The **City Overview Dashboard** gives a high-level picture of how different cities contribute to Swiggy’s overall performance.  
-It is designed to help identify **where the business is performing well** and **which locations need attention**.  
+The **City Overview Dashboard** provides a geographical view of Swiggy’s performance across different Indian cities.  
+It enables leadership teams and analysts to **compare city-level sales and order volumes** while also tracking customer engagement through ratings.
 
-#### 🔑 Key Features:  
-- 🌍 **Map Visualization** – Interactive map showing the distribution of **sales and orders across Indian cities**, making it easy to spot regional demand clusters.  
-- 📊 **City-wise Performance Table** – A detailed table that lists **Total Sales, Orders, and Current Year Sales** for every city. This enables granular comparison of performance at the city level.  
-- 🏙️ **Top Cities Bar Chart** – A ranked bar chart that highlights the **highest revenue-generating cities**. The chart makes it simple to identify where Swiggy’s strongest customer base is located.  
-- 👥 **User & Ratings Metrics** – Cards showing **total number of users** in each city along with the **ratings count**, which provides a quick snapshot of engagement and satisfaction levels.  
+### 🔑 Key Features:  
+- 🌍 **Map Visualization** – Sales & Orders plotted across Indian cities. This gives an instant idea of **high-demand regions**.  
+- 📊 **City-wise Performance Table** – Displays **Total Sales, Total Orders, and Current Year Sales** by city, allowing detailed city-level benchmarking.  
+- 🏙️ **Top Cities Bar Chart** – Highlights the **top-performing cities** in terms of revenue contribution.  
+- 👥 **User & Ratings Metrics** – Cards showing **number of users and ratings count**, representing **engagement and customer satisfaction** levels.  
 
-#### 💡 Business Value:  
-- Helps Swiggy identify **key hotspot cities** where revenue and orders are the highest.  
-- Assists leadership teams in making **data-driven expansion strategies** by focusing on regions with high sales and customer adoption.  
-- Allows regional managers to track **customer engagement levels** through ratings, which can be used to measure service quality.  
-- Offers a **clear and comparative view** of sales dominance across multiple cities, supporting decisions like **where to invest more marketing budget** or **where to optimize delivery operations**.  
-- Facilitates **benchmarking of cities** against each other to understand best-performing markets and underperforming ones.  
+### 💡 Business Value:  
+- Identifies **key hotspot cities** that contribute the most to sales and orders.  
+- Helps in **regional expansion planning** – e.g., scaling delivery fleet in metro cities or tapping into fast-growing Tier-2 cities.  
+- Provides clarity on **where Swiggy dominates vs. where competitors may have an edge**.  
+- Enables **regional marketing optimization** – more ad spend in high-value cities, referral programs in emerging cities.  
+- Connects sales performance with customer engagement metrics, ensuring Swiggy not only grows in numbers but also in **customer satisfaction**.  
+- Supports **long-term strategic planning** by highlighting which cities consistently contribute high revenue over the years.  
 
 ---
 
-### 2️⃣ User Performance Dashboard  
+## 2️⃣ User Performance Dashboard  
 ![User Performance](User%20Performance.png)  
 
-The **User Performance Dashboard** focuses on **customer demographics and purchasing behavior**.  
-It gives a breakdown of who the customers are, what age groups they belong to, their marital status, and their professional background.  
+The **User Performance Dashboard** provides insights into Swiggy’s **customer demographics and behavioral patterns**.  
+It focuses on who the customers are, how they are segmented, and how much they contribute to the business.
 
-#### 🔑 Key Features:  
-- 👤 **KPI Cards** – High-level metrics showing **total user count, contribution of top 10% customers, and year-on-year sales trends**.  
+### 🔑 Key Features:  
+- 👤 **KPI Cards** – Show **total user count, YoY sales, and contribution of top 10% customers**.  
 - 🧑‍🤝‍🧑 **Demographic Segmentation** –  
-  - **Gender Split** – Distribution of male and female customers, useful for understanding gender preferences in online food ordering.  
-  - **Age Group Distribution** – A breakdown of customers into different age brackets, highlighting the **most active customer groups**.  
-  - **Marital Status Segmentation** – Split between **single and married users**, which helps understand lifestyle-driven consumption patterns.  
-  - **Occupation Categories** – Insights into whether the majority of users are **Students, Employees, Self-Employed, or Homemakers**.  
+  - **Gender Distribution** – Understand male vs. female customer ratios.  
+  - **Age Group Distribution** – Breakdown of customers into **youth, working professionals, middle-aged, and senior citizens**.  
+  - **Marital Status Segmentation** – Compare consumption patterns of **single vs. married users**.  
+  - **Occupation Categories** – Distinguishes between **Students, Employees, Self-Employed, Homemakers**, highlighting who orders the most.  
 
-#### 💡 Business Value:  
-- Reveals **the real customer base** of Swiggy by highlighting demographics that contribute the most to sales.  
-- Highlights **age groups** with the highest order frequency, enabling targeted campaigns (e.g., student discounts, office lunch offers).  
-- Provides marketing teams with data on **occupation-based consumption**, showing whether the app is more popular among working professionals or students.  
-- Marital status insights help in designing **personalized offers**, e.g., family combo meals for married customers or budget-friendly options for singles.  
-- Helps in **segmentation-based strategy building** – Swiggy can tailor promotions, loyalty programs, and partnerships based on who their customers are.  
-- Guides long-term decision-making by showing how **demographics influence order behavior**, helping management allocate resources efficiently.  
+### 💡 Business Value:  
+- Helps Swiggy **identify target audiences** more effectively.  
+- **Top 10% customers analysis** shows the importance of loyalty programs, as they contribute disproportionately to revenue.  
+- Gender-based insights can be used to design **personalized campaigns** (e.g., discounts on Women’s Day or men’s sports events promotions).  
+- Age group trends highlight **student-driven consumption** (late-night snacks) vs. **working professionals** (office lunch orders).  
+- Marital status patterns show how **family-based customers differ from individual buyers**.  
+- Occupation segmentation helps Swiggy run **occupation-specific offers** (student meal plans, office lunch subscriptions).  
+- Strengthens **marketing efficiency** by allowing targeted ads instead of blanket promotions.  
+- Supports **user retention strategies**, ensuring Swiggy not only acquires users but also **keeps them engaged**.  
 
 ---
 
-### 3️⃣ Orders & Sales Dashboard  
+## 3️⃣ Orders & Sales Dashboard  
 ![Orders & Sales Dashboard](Dashboard.png)  
 
-The **Orders & Sales Dashboard** provides an overall picture of Swiggy’s growth in terms of orders, sales, and customer preferences.  
-It combines **historical trend analysis with category-wise performance**, giving both a time-based and product-based view of business performance.  
+The **Orders & Sales Dashboard** focuses on **revenue trends, food preferences, and city-level comparisons**.  
+It is designed to give a **holistic view of business performance** from both product (Veg/Non-Veg) and time-series perspectives.
 
-#### 🔑 Key Features:  
-- 📦 **Overall KPIs** – Cards displaying **Total Orders, Number of Users, Contribution of Top 10% Customers, and Ratings Count**, giving stakeholders a quick snapshot of business health.  
-- 🍲 **Food Category Insights** – Donut/Bar charts showing how much of the sales come from **Veg, Non-Veg, and Other categories**, along with their **average prices**. This shows both demand and revenue impact.  
-- 📈 **Yearly Trend Analysis** – A line chart showing the **growth in sales and orders from 2017 to 2020**, helping stakeholders measure business momentum.  
-- 🏆 **Top City Comparisons** – A flexible visualization that allows users to analyze performance by **Top 10, Top 20, Top 100 cities**, depending on the required detail.  
+### 🔑 Key Features:  
+- 📦 **Overall KPIs** – Shows **total orders, active users, top 10% customer contribution, and ratings count**.  
+- 🍲 **Food Category Insights** – Breaks down orders into **Veg, Non-Veg, and Others**, with price comparisons.  
+- 📈 **Yearly Trend Analysis** – Shows orders and sales from **2017–2020**, capturing growth patterns over multiple years.  
+- 🏆 **Top City Comparisons** – Flexible visualization to compare **Top 10, Top 20, or Top 100 cities** based on performance.  
 
-#### 💡 Business Value:  
-- Provides visibility into **customer food preferences** – e.g., while Veg items may have more order volume, Non-Veg items contribute more to revenue due to higher pricing.  
-- Tracks **long-term growth trends** across multiple years, helping management evaluate whether business initiatives are paying off.  
-- Identifies **top-performing cities over different ranges (Top 10/20/100)**, allowing Swiggy to **prioritize operational improvements** where the demand is highest.  
-- Helps in understanding the **revenue contribution of loyal customers (Top 10%)**, which supports customer retention strategies like loyalty points, coupons, or personalized offers.  
-- Enables **performance comparison across time and regions**, which is critical for planning promotions, festival campaigns, and partnerships with restaurants.  
-- Acts as a **decision-support tool** for the leadership team by consolidating both product performance and market performance into a single view.  
+### 💡 Business Value:  
+- Identifies **food preferences** – crucial for Swiggy’s partnerships with restaurants (e.g., more Non-Veg options in cities where demand is higher).  
+- Yearly analysis shows **how customer adoption has grown over time**, validating marketing and expansion efforts.  
+- Understanding **Veg vs. Non-Veg revenue** helps Swiggy optimize menu pricing and restaurant recommendations.  
+- Top city comparisons ensure Swiggy invests in **high-growth cities** rather than spreading resources thin.  
+- Shows the importance of **repeat customers and loyal buyers (top 10%)**, guiding retention-based growth strategies.  
+- Provides a **clear connection between product categories and revenue contribution**, helping in **supply chain and pricing decisions**.  
+- Equips leadership with insights on **seasonality, growth momentum, and regional performance differences**.  
+
+---
+
+## 📊 Why This Project Matters  
+
+This Swiggy Analytics project is not just about visualizations – it is about **converting raw data into actionable insights**.  
+By combining **geographical, demographic, and sales performance dashboards**, the analysis covers every angle of Swiggy’s business model.  
+
+- City-level performance → Guides **where to expand**  
+- User demographics → Tells **who the real customers are**  
+- Orders & Sales trends → Shows **what products are driving revenue**  
+
+Together, these dashboards can be used by **marketing, operations, and leadership teams** to align their strategies with real data.  
 
 ---
 
