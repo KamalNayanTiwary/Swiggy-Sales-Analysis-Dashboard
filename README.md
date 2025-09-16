@@ -18,7 +18,7 @@ This project bridges the gap between **raw sales data** and **business decision-
 
 You can view the **Swiggy Sales & Performance Dashboard** 
 
-🔗 You can explore it **Live** here: [View Dashboard]()
+🔗 You can explore it **Live** here: [View Dashboard](https://app.powerbi.com/view?r=eyJrIjoiOWJhNDg0ZTktMTUwNC00OWZiLTg0NDgtOWJjM2VkNTFkMDM1IiwidCI6ImNhZDFhYWU2LTc3MjEtNGE2Yy05ZWM3LWY1MWQ4YTJkYjY5NiJ9)
 
 ---
 
