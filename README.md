@@ -265,7 +265,66 @@ Created calculated columns and measures for business KPIs, such as:
 ┣ 📊 User Performance.png
 ┣ 📊 Dashboard.png
 ┣ 📄 README.md
-┗ 📁 Dataset (Not uploaded – use your own dataset)
+┗ 📁 Dataset 
+```
+---
+
+# 🔗 Data Source & Integration  
+
+The dataset was sourced from **Kaggle**.  
+To streamline the process, a small **Python script** was used to fetch the dataset via the Kaggle API and save it into a local folder. Power BI was then connected to this folder, ensuring that whenever the script is re-run, the dashboard can refresh automatically with the updated data.  
+
+## ✅ Benefits of This Setup  
+
+- **Automation:** Eliminated manual file downloads  
+- **Consistency:** One source of truth for data  
+- **Scalability:** Can be extended to other datasets in future  
+```
+# data_fetch.py
+"""
+Script to fetch dataset from Kaggle and store locally for Power BI integration.
+Author: Kamal Nayan Tiwary
+"""
+
+import os
+import sys
+import logging
+from kaggle.api.kaggle_api_extended import KaggleApi
+
+# Configure logging
+logging.basicConfig(
+    level=logging.INFO,
+    format="%(asctime)s - %(levelname)s - %(message)s"
+)
+
+def fetch_dataset(dataset: str, save_path: str = "data") -> None:
+    """
+    Download dataset from Kaggle and save locally.
+    
+    Args:
+        dataset (str): Dataset identifier in format 'username/dataset-name'
+        save_path (str): Local directory to save dataset
+    """
+    try:
+        logging.info("Authenticating Kaggle API...")
+        api = KaggleApi()
+        api.authenticate()
+
+        logging.info(f"Creating folder at '{save_path}' (if not exists)...")
+        os.makedirs(save_path, exist_ok=True)
+
+        logging.info(f"Downloading dataset: {dataset}")
+        api.dataset_download_files(dataset, path=save_path, unzip=True)
+
+        logging.info(f"✅ Dataset downloaded successfully into '{save_path}/'")
+
+    except Exception as e:
+        logging.error(f"❌ Failed to download dataset: {e}")
+        sys.exit(1)
+
+ if __name__ == "__main__":
+    DATASET_NAME = "username/swiggy-dataset"
+    fetch_dataset(DATASET_NAME)
 ```
 ---
 
