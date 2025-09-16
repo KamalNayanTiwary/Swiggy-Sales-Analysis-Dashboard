@@ -139,5 +139,27 @@ Created calculated columns and measures for business KPIs, such as:
 ┣ 📊 Dashboard.png
 ┣ 📄 README.md
 ┗ 📁 Dataset (Not uploaded – use your own dataset)
-
 ```
+---
+
+## 📌 Notes  
+
+⚠️ **Dataset not included in this repo.**  
+Due to licensing and privacy concerns, the raw Excel/CSV dataset used in this project is not shared here.  
+However, you can replicate the project by:  
+- Downloading any Swiggy/Zomato dataset from **Kaggle**  
+- Cleaning & transforming data using **Power Query**  
+- Rebuilding visuals in **Power BI** with your own dataset  
+
+---
+
+## 👨‍💻 Author  
+
+**Kamal Nayan Tiwary**  
+**Data Analyst**
+
+📧 **kamalnayantiwary73@gmail.com**  
+🔗 [LinkedIn](https://www.linkedin.com/in/kamal-nayan-tiwary-2022-2026-/)  
+
+---
+
