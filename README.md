@@ -193,7 +193,7 @@ This **Swiggy Business Intelligence Dashboard** was built to:
 
 📊 By consolidating these insights into **interactive Power BI dashboards**, Swiggy’s stakeholders can make **data-driven decisions** to optimize operations, enhance customer experiences, and drive sustainable business growth.  
 
-➡️ **[Read Full Report Here]()** 
+➡️ **[Read Full Report Here](https://github.com/KamalNayanTiwary/Swiggy-Sales-Analysis-Dashboard/blob/main/Swiggy%20Sales%20Report.pdf)** 
 ---
 
 ## ⚙️ Technical Workflow  
