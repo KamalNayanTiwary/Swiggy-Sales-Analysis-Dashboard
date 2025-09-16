@@ -14,6 +14,13 @@ This project bridges the gap between **raw sales data** and **business decision-
 
 ---
 
+## Live Dashboard
+
+You can view the **Swiggy Sales & Performance Dashboard** live here:  
+**[View Live Dashboard]**(https://app.powerbi.com/view?r=YOUR_EMBED_LINK)
+
+---
+
 ## 📊 Dashboard Overview  
 
 The solution consists of **3 interactive dashboards**, each focusing on a different aspect of the business.  
