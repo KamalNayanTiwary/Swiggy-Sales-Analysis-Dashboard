@@ -27,30 +27,32 @@ The dashboards uncover hidden patterns in **sales trends, customer demographics,
 
 ---
 
-## 1️⃣ City Overview Dashboard  
-![City Overview](City%20Overview.png)  
+## 1️⃣ Orders & Sales Dashboard  
+![Orders & Sales Dashboard](https://github.com/KamalNayanTiwary/Swiggy-Sales-Analysis-Dashboard/blob/main/Dashboard.png)  
 
-The **City Overview Dashboard** provides a geographical view of Swiggy’s performance across different Indian cities.  
-It enables leadership teams and analysts to **compare city-level sales and order volumes** while also tracking customer engagement through ratings.
+The **Orders & Sales Dashboard** focuses on **revenue trends, food preferences, and city-level comparisons**.  
+It is designed to give a **holistic view of business performance** from both product (Veg/Non-Veg) and time-series perspectives.
 
 ### 🔑 Key Features:  
-- 🌍 **Map Visualization** – Sales & Orders plotted across Indian cities. This gives an instant idea of **high-demand regions**.  
-- 📊 **City-wise Performance Table** – Displays **Total Sales, Total Orders, and Current Year Sales** by city, allowing detailed city-level benchmarking.  
-- 🏙️ **Top Cities Bar Chart** – Highlights the **top-performing cities** in terms of revenue contribution.  
-- 👥 **User & Ratings Metrics** – Cards showing **number of users and ratings count**, representing **engagement and customer satisfaction** levels.  
+- 📦 **Overall KPIs** – Shows **total orders, active users, top 10% customer contribution, and ratings count**.  
+- 🍲 **Food Category Insights** – Breaks down orders into **Veg, Non-Veg, and Others**, with price comparisons.  
+- 📈 **Yearly Trend Analysis** – Shows orders and sales from **2017–2020**, capturing growth patterns over multiple years.  
+- 🏆 **Top City Comparisons** – Flexible visualization to compare **Top 10, Top 20, or Top 100 cities** based on performance.  
 
 ### 💡 Business Value:  
-- Identifies **key hotspot cities** that contribute the most to sales and orders.  
-- Helps in **regional expansion planning** – e.g., scaling delivery fleet in metro cities or tapping into fast-growing Tier-2 cities.  
-- Provides clarity on **where Swiggy dominates vs. where competitors may have an edge**.  
-- Enables **regional marketing optimization** – more ad spend in high-value cities, referral programs in emerging cities.  
-- Connects sales performance with customer engagement metrics, ensuring Swiggy not only grows in numbers but also in **customer satisfaction**.  
-- Supports **long-term strategic planning** by highlighting which cities consistently contribute high revenue over the years.  
+- Identifies **food preferences** – crucial for Swiggy’s partnerships with restaurants (e.g., more Non-Veg options in cities where demand is higher).  
+- Yearly analysis shows **how customer adoption has grown over time**, validating marketing and expansion efforts.  
+- Understanding **Veg vs. Non-Veg revenue** helps Swiggy optimize menu pricing and restaurant recommendations.  
+- Top city comparisons ensure Swiggy invests in **high-growth cities** rather than spreading resources thin.  
+- Shows the importance of **repeat customers and loyal buyers (top 10%)**, guiding retention-based growth strategies.  
+- Provides a **clear connection between product categories and revenue contribution**, helping in **supply chain and pricing decisions**.  
+- Equips leadership with insights on **seasonality, growth momentum, and regional performance differences**.  
+
 
 ---
 
 ## 2️⃣ User Performance Dashboard  
-![User Performance](User%20Performance.png)  
+![User Performance](https://github.com/KamalNayanTiwary/Swiggy-Sales-Analysis-Dashboard/blob/main/User%20Performance.png)  
 
 The **User Performance Dashboard** provides insights into Swiggy’s **customer demographics and behavioral patterns**.  
 It focuses on who the customers are, how they are segmented, and how much they contribute to the business.
@@ -75,26 +77,25 @@ It focuses on who the customers are, how they are segmented, and how much they c
 
 ---
 
-## 3️⃣ Orders & Sales Dashboard  
-![Orders & Sales Dashboard](Dashboard.png)  
+## 3️⃣ City Overview Dashboard  
+![City Overview](https://github.com/KamalNayanTiwary/Swiggy-Sales-Analysis-Dashboard/blob/main/City%20Overview.png)  
 
-The **Orders & Sales Dashboard** focuses on **revenue trends, food preferences, and city-level comparisons**.  
-It is designed to give a **holistic view of business performance** from both product (Veg/Non-Veg) and time-series perspectives.
+The **City Overview Dashboard** provides a geographical view of Swiggy’s performance across different Indian cities.  
+It enables leadership teams and analysts to **compare city-level sales and order volumes** while also tracking customer engagement through ratings.
 
 ### 🔑 Key Features:  
-- 📦 **Overall KPIs** – Shows **total orders, active users, top 10% customer contribution, and ratings count**.  
-- 🍲 **Food Category Insights** – Breaks down orders into **Veg, Non-Veg, and Others**, with price comparisons.  
-- 📈 **Yearly Trend Analysis** – Shows orders and sales from **2017–2020**, capturing growth patterns over multiple years.  
-- 🏆 **Top City Comparisons** – Flexible visualization to compare **Top 10, Top 20, or Top 100 cities** based on performance.  
+- 🌍 **Map Visualization** – Sales & Orders plotted across Indian cities. This gives an instant idea of **high-demand regions**.  
+- 📊 **City-wise Performance Table** – Displays **Total Sales, Total Orders, and Current Year Sales** by city, allowing detailed city-level benchmarking.  
+- 🏙️ **Top Cities Bar Chart** – Highlights the **top-performing cities** in terms of revenue contribution.  
+- 👥 **User & Ratings Metrics** – Cards showing **number of users and ratings count**, representing **engagement and customer satisfaction** levels.  
 
 ### 💡 Business Value:  
-- Identifies **food preferences** – crucial for Swiggy’s partnerships with restaurants (e.g., more Non-Veg options in cities where demand is higher).  
-- Yearly analysis shows **how customer adoption has grown over time**, validating marketing and expansion efforts.  
-- Understanding **Veg vs. Non-Veg revenue** helps Swiggy optimize menu pricing and restaurant recommendations.  
-- Top city comparisons ensure Swiggy invests in **high-growth cities** rather than spreading resources thin.  
-- Shows the importance of **repeat customers and loyal buyers (top 10%)**, guiding retention-based growth strategies.  
-- Provides a **clear connection between product categories and revenue contribution**, helping in **supply chain and pricing decisions**.  
-- Equips leadership with insights on **seasonality, growth momentum, and regional performance differences**.  
+- Identifies **key hotspot cities** that contribute the most to sales and orders.  
+- Helps in **regional expansion planning** – e.g., scaling delivery fleet in metro cities or tapping into fast-growing Tier-2 cities.  
+- Provides clarity on **where Swiggy dominates vs. where competitors may have an edge**.  
+- Enables **regional marketing optimization** – more ad spend in high-value cities, referral programs in emerging cities.  
+- Connects sales performance with customer engagement metrics, ensuring Swiggy not only grows in numbers but also in **customer satisfaction**.  
+- Supports **long-term strategic planning** by highlighting which cities consistently contribute high revenue over the years.  
 
 ---
 
