@@ -134,6 +134,36 @@ Together, these dashboards can be used by **marketing, operations, and leadershi
 
 ---
 
+## 📊 Swiggy Sales Report (2017–2020)
+
+This dashboard consolidates Swiggy’s sales and orders data over multiple years, giving a **comprehensive sales performance view**. The report highlights trends, customer behaviors, and revenue distribution across cities and categories.
+
+### 🔑 Key Sales Highlights:
+- 📈 **Year-on-Year Growth:** Orders and revenue showed a consistent upward trend from 2017 to 2020, with double-digit percentage growth in peak years.  
+- 🌍 **Top Performing Cities:** A few metro cities (like Delhi, Mumbai, Bangalore) contributed to the majority of revenue, while Tier-2 cities showed promising growth opportunities.  
+- 👥 **Customer Base:** The top **10% of customers contributed disproportionately** to overall sales, confirming strong customer loyalty.  
+- 🍲 **Food Preferences:** Non-Veg items drove the largest share of sales, but **Veg items showed faster growth**, especially in Tier-2 regions.  
+- ⭐ **Engagement Metrics:** Higher ratings and repeat orders directly correlated with increased sales, showing the importance of customer satisfaction.  
+
+### 📊 Yearly Sales Performance (Sample Data)
+
+| Year | Total Orders | Total Revenue (₹ Cr) | Active Customers (Millions) |
+|------|--------------|-----------------------|-----------------------------|
+| 2017 | 1.2M         | 120                   | 0.8                         |
+| 2018 | 2.5M         | 300                   | 1.5                         |
+| 2019 | 4.8M         | 650                   | 2.4                         |
+| 2020 | 7.2M         | 1100                  | 3.6                         |
+
+*(Note: Data shown above is for illustration purposes only, based on dashboard trend visualization.)*  
+
+### 📌 Business Impact:
+- Demonstrates **strong scalability** of Swiggy’s business model across multiple regions.  
+- Provides clarity on **where to invest marketing and operational resources**.  
+- Helps align **restaurant partnerships and menu offerings** with customer demand.  
+- Acts as a **benchmark report** for tracking future performance and expansions.  
+
+---
+
 ## ⚙️ Technical Workflow  
 
 ### 🔹 Step 1 – Data Import  
