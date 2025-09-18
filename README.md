@@ -197,34 +197,36 @@ This **Swiggy Business Intelligence Dashboard** was built to:
 ➡️ **[Read Full Report Here](https://github.com/KamalNayanTiwary/Swiggy-Sales-Analysis-Dashboard/blob/main/Swiggy%20Sales%20Report.pdf)** 
 ---
 
-## ⚙️ Technical Workflow  
+## ⚙️ Technical Workflow
 
-### 🔹 Step 1 – Data Import  
-- Collected raw data in **Excel format**  
-- Imported into Power BI  
+### 🔹 Step 1 – Data Extraction (Python + Kaggle)
+- Used **Python** to fetch the raw Swiggy dataset from **Kaggle API** and save it into a local folder.
+- Ensured **automation** and **refreshable data pipelines** for Power BI.
 
-### 🔹 Step 2 – Data Cleaning & Transformation (Power Query)  
-- Removed duplicates  
-- Standardized city names & categories  
-- Filled missing/null values  
-- Converted datatypes  
+### 🔹 Step 2 – Data Import & Cleaning (Power Query)
+- Imported the Python-fetched dataset into **Power BI**.
+- Performed data cleaning:
+  - Removed duplicates
+  - Standardized city names & categories
+  - Filled missing/null values
+  - Converted datatypes
 
-### 🔹 Step 3 – Data Modeling  
-- Designed a **star schema** with fact & dimension tables  
-- Built relationships between multiple datasets (Food, Menu, Orders, Restaurant, Users)  
+### 🔹 Step 3 – Data Modeling
+- Designed a **star schema** with fact & dimension tables.
+- Built relationships between multiple datasets (**Food, Menu, Orders, Restaurant, Users**).
 
-### 🔹 Step 4 – DAX Calculations  
-Created calculated columns and measures for business KPIs, such as:  
-- Total Sales  
-- Current vs Previous Year Sales  
-- Orders Count  
-- Top 10% Customer Contribution  
-- Average Food Price by Category  
+### 🔹 Step 4 – DAX Calculations
+- Created calculated columns and measures for business KPIs:
+  - Total Sales
+  - Current vs Previous Year Sales
+  - Orders Count
+  - Top 10% Customer Contribution
+  - Average Food Price by Category
 
-### 🔹 Step 5 – Dashboard Development  
-- Built 3 dashboards with **cards, bar charts, line charts, maps, and donut charts**  
-- Applied **Swiggy theme (orange/black)** for consistency  
-- Added **interactive slicers, drill-downs, and filters**  
+### 🔹 Step 5 – Dashboard Development
+- Built **3 interactive dashboards** with **cards, bar charts, line charts, maps, and donut charts**.
+- Applied **Swiggy theme (orange/black)** for consistency.
+- Added **interactive slicers, drill-downs, and filters**.
 
 ---
 
